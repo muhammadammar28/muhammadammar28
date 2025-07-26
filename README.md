@@ -3,9 +3,9 @@
   <em>Full Stack Developer • SaaS Engineer • Backend Enthusiast</em>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=22C3AA&center=true&vCenter=true&width=440&lines=I+build+scalable+SaaS+apps;Node.js+%7C+NestJS+%7C+Vue.js+%7C+React;MongoDB+%7C+PostgreSQL+%7C+Firebase+%7C+AWS" alt="Typing SVG" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=22C3AA&center=true&vCenter=true&width=380&lines=I+build+scalable+SaaS+apps;Node.js+%7C+NestJS+%7C+Vue.js;MongoDB+%7C+PostgreSQL+%7C+Firebase+%7C+AWS" alt="Typing SVG" />
+</div>
 
 ---
 
