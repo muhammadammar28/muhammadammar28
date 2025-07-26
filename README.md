@@ -12,7 +12,7 @@
 ### 💼 About Me
 
 - 🔭 Currently working as a **Senior Software Engineer** at Biztree
-- 🧠 Focused on **NestJS, Vue, AWS, PostgreSQL, and scalable app architecture**
+- 🧠 Focused on **NestJS, Vue, React, AWS, Node, PostgreSQL, MongoDB, and scalable app architecture**
 - 🌍 Building production-grade SaaS platforms like [AutoMato AI](https://automatoai.com) and [BlingRock](https://blingrock.ai)
 - 📧 Reach me at **ammarsattar85@gmail.com**
 
@@ -32,19 +32,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
----
-
 ### 🚀 Featured Projects
 
 - 🔹 [AutoMato AI](https://automatoai.com) – AI-driven Amazon listing optimizer
@@ -56,7 +43,7 @@
 
 ### 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&link=https://www.linkedin.com/in/your-link)](https://www.linkedin.com/in/your-link)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&link=https://www.linkedin.com/in/muhammad-ammar-a23aa11a3)](https://www.linkedin.com/in/muhammad-ammar-a23aa11a3)
 [![Gmail](https://img.shields.io/badge/Gmail-DD5144?style=flat-square&logo=gmail&logoColor=white)](mailto:ammarsattar85@gmail.com)
 
 ---
