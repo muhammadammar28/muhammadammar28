@@ -1,3 +1,8 @@
+<!-- Banner Image -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ammar85/ammar85/main/assets/banner.png" alt="banner" width="100%" />
+</p>
+
 <h1 align="center">Hey 👋, I'm Muhammad Ammar</h1>
 <p align="center">
   <em>Full Stack Developer • SaaS Engineer • Backend Enthusiast</em>
@@ -11,9 +16,9 @@
 
 ### 💼 About Me
 
-- 🔭 Currently working as a **Senior Software Engineer** at Biztree
-- 🧠 Focused on **NestJS, Vue, React, AWS, Node, PostgreSQL, MongoDB, and scalable app architecture**
-- 🌍 Building production-grade SaaS platforms like [AutoMato AI](https://automatoai.com) and [BlingRock](https://blingrock.ai)
+- 🔭 Senior Software Engineer at **Biztree (Canada)**
+- 🧠 Focused on **NestJS, Vue, React, AWS, Node, PostgreSQL, MongoDB**
+- 🌍 Building SaaS platforms like [AutoMato AI](https://automatoai.com) and [BlingRock](https://blingrock.ai)
 - 📧 Reach me at **ammarsattar85@gmail.com**
 
 ---
@@ -34,10 +39,37 @@
 
 ### 🚀 Featured Projects
 
-- 🔹 [AutoMato AI](https://automatoai.com) – AI-driven Amazon listing optimizer
-- 🔹 [BlingRock](https://blingrock.ai) – Music discovery & analytics platform
-- 🔹 [Techni-k LMS](https://techni-k.co.uk) – Corporate training system
-- 🔹 LifePlan – Goal and task planner with smart reminders
+- 🔹 [AutoMato AI](https://automatoai.com) – AI-driven Amazon listing optimizer  
+- 🔹 [BlingRock](https://blingrock.ai) – Music discovery & analytics platform  
+- 🔹 [Techni-k LMS](https://techni-k.co.uk) – Corporate training system  
+- 🔹 LifePlan – Goal and task planner with smart reminders  
+
+<!-- OPTIONAL GIF DEMO -->
+<!--
+### 🎬 Project Demos
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ammar85/ammar85/main/assets/automato-demo.gif" width="75%" alt="AutoMato Demo" />
+</p>
+-->
+
+---
+
+### 🧠 Currently Exploring
+
+- 🧠 **AI-Powered Development** – Using **Cursor** + **Claude 3** for refactoring and ideation  
+- 🤖 **LLM Integrations** – Building apps with **OpenAI**, **Claude**, **LangChain**  
+- ⚡ **Edge Functions** – Using **Cloudflare Workers** and **Vercel Edge**  
+- 🧩 **Firebase Modular SDK** – Real-time data + fine-grained Firestore auth  
+- 📦 **Fastify + NestJS Microservices** – Lightweight & scalable APIs
+
+---
+
+### 😄 Fun Facts
+
+- 🧋 I love clean code, hot coffee, and backend architecture
+- 🎧 Code with lo-fi beats on repeat
+- 🧠 Obsessed with building scalable systems
 
 ---
 
