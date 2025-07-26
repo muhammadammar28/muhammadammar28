@@ -1,8 +1,3 @@
-<!-- Banner Image -->
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1542831371-d531d36971e6?fit=crop&w=1200&q=80" alt="banner" width="100%" />
-</p>
-
 <h1 align="center">Hey 👋, I'm Muhammad Ammar</h1>
 <p align="center">
   <em>Full Stack Developer • SaaS Engineer • Backend Enthusiast</em>
@@ -18,7 +13,8 @@
 
 - 🔭 Senior Software Engineer at **Biztree (Canada)**
 - 🧠 Focused on **NestJS, Vue, React, AWS, Node, PostgreSQL, MongoDB**
-- 🌍 Building SaaS platforms like [AutoMato AI](https://automatoai.com) and [BlingRock](https://blingrock.ai)
+- 🌍 Building scalable SaaS platforms like [AutoMato AI](https://automatoai.com) and [BlingRock](https://blingrock.ai)
+- ✍️ Writing clean backend architecture & reusable services
 - 📧 Reach me at **ammarsattar85@gmail.com**
 
 ---
@@ -39,43 +35,34 @@
 
 ### 🚀 Featured Projects
 
-- 🔹 [AutoMato AI](https://automatoai.com) – AI-driven Amazon listing optimizer  
-- 🔹 [BlingRock](https://blingrock.ai) – Music discovery & analytics platform  
-- 🔹 [Techni-k LMS](https://techni-k.co.uk) – Corporate training system  
-- 🔹 LifePlan – Goal and task planner with smart reminders  
-
----
-
-### 🎬 Project Demo (Placeholder)
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="75%" alt="Demo Animation" />
-</p>
+- 🔹 [AutoMato AI](https://automatoai.com) – AI-powered Amazon listing optimizer
+- 🔹 [BlingRock](https://blingrock.ai) – Music analytics & discovery platform
+- 🔹 [Techni-k LMS](https://techni-k.co.uk) – Learning Management System for business training
+- 🔹 LifePlan – Goal and task planner with team collaboration features
 
 ---
 
 ### 🧠 Currently Exploring
 
-- 🧠 **AI-Powered Development** – Using **Cursor** + **Claude 3** for refactoring and ideation  
-- 🤖 **LLM Integrations** – Building apps with **OpenAI**, **Claude**, **LangChain**  
-- ⚡ **Edge Functions** – Using **Cloudflare Workers** and **Vercel Edge**  
+- 🧠 **AI-Powered Development** – Using **Cursor** + **Claude 3** for code generation, refactoring, and team productivity  
+- 🤖 **LLM Integrations** – Building apps with **OpenAI**, **Anthropic Claude**, and **LangChain**  
+- ⚡ **Edge Functions** – Serverless & edge compute via **Cloudflare Workers** and **Vercel Edge**  
 - 🧩 **Firebase Modular SDK** – Real-time data + fine-grained Firestore auth  
-- 📦 **Fastify + NestJS Microservices** – Lightweight & scalable APIs  
-- 🔐 **JWT & OAuth2 Flows** – Secure auth patterns for SaaS apps  
+- 📦 **Fastify + NestJS Microservices** – Performance-tuned modern backend
 
 ---
 
 ### 😄 Fun Facts
 
-- 🧋 I love clean code, hot coffee, and backend architecture  
-- 🎧 Code with lo-fi beats on repeat  
-- 🧠 Obsessed with building scalable systems  
+- 🧋 I love clean code, hot coffee, and backend design
+- 🧠 Passionate about building systems that scale
+- 🎯 I enjoy solving complex logic & API architecture
 
 ---
 
-### 🤝 Let's Connect
+### 🤝 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&link=https://www.linkedin.com/in/muhammad-ammar-a23aa11a3)](https://www.linkedin.com/in/muhammad-ammar-a23aa11a3)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&link=https://www.linkedin.com/in/muhammad-ammar-a23aa11a3)](https://www.linkedin.com/in/muhammad-ammar-a23aa11a3)
 [![Gmail](https://img.shields.io/badge/Gmail-DD5144?style=flat-square&logo=gmail&logoColor=white)](mailto:ammarsattar85@gmail.com)
 
 ---
