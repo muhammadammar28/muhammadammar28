@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ammar85/ammar85/main/assets/banner.png" alt="banner" width="100%" />
+  <img src="https://images.unsplash.com/photo-1542831371-d531d36971e6?fit=crop&w=1200&q=80" alt="banner" width="100%" />
 </p>
 
 <h1 align="center">Hey 👋, I'm Muhammad Ammar</h1>
@@ -44,14 +44,13 @@
 - 🔹 [Techni-k LMS](https://techni-k.co.uk) – Corporate training system  
 - 🔹 LifePlan – Goal and task planner with smart reminders  
 
-<!-- OPTIONAL GIF DEMO -->
-<!--
-### 🎬 Project Demos
+---
+
+### 🎬 Project Demo (Placeholder)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ammar85/ammar85/main/assets/automato-demo.gif" width="75%" alt="AutoMato Demo" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="75%" alt="Demo Animation" />
 </p>
--->
 
 ---
 
@@ -61,21 +60,22 @@
 - 🤖 **LLM Integrations** – Building apps with **OpenAI**, **Claude**, **LangChain**  
 - ⚡ **Edge Functions** – Using **Cloudflare Workers** and **Vercel Edge**  
 - 🧩 **Firebase Modular SDK** – Real-time data + fine-grained Firestore auth  
-- 📦 **Fastify + NestJS Microservices** – Lightweight & scalable APIs
+- 📦 **Fastify + NestJS Microservices** – Lightweight & scalable APIs  
+- 🔐 **JWT & OAuth2 Flows** – Secure auth patterns for SaaS apps  
 
 ---
 
 ### 😄 Fun Facts
 
-- 🧋 I love clean code, hot coffee, and backend architecture
-- 🎧 Code with lo-fi beats on repeat
-- 🧠 Obsessed with building scalable systems
+- 🧋 I love clean code, hot coffee, and backend architecture  
+- 🎧 Code with lo-fi beats on repeat  
+- 🧠 Obsessed with building scalable systems  
 
 ---
 
 ### 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&link=https://www.linkedin.com/in/muhammad-ammar-a23aa11a3)](https://www.linkedin.com/in/muhammad-ammar-a23aa11a3)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&link=https://www.linkedin.com/in/muhammad-ammar-a23aa11a3)](https://www.linkedin.com/in/muhammad-ammar-a23aa11a3)  
 [![Gmail](https://img.shields.io/badge/Gmail-DD5144?style=flat-square&logo=gmail&logoColor=white)](mailto:ammarsattar85@gmail.com)
 
 ---
