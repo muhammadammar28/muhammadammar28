@@ -11,7 +11,6 @@
 
 ### 💼 About Me
 
-- 🔭 Senior Software Engineer at **Biztree (Canada)**
 - 🧠 Focused on **NestJS, Vue, React, AWS, Node, PostgreSQL, MongoDB**
 - 🌍 Building scalable SaaS platforms like [AutoMato AI](https://automatoai.com) and [BlingRock](https://blingrock.ai)
 - ✍️ Writing clean backend architecture & reusable services
